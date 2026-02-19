@@ -25,15 +25,7 @@ lookups become essentially invalid.
 
 ## Python Implementation
 
-### Usage
-
-#### Building
-
-```sh
-nix build
-```
-
-#### Running
+### Running
 
 ```sh
 nix develop
